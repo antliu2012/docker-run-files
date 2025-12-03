@@ -2,4 +2,6 @@
 **/conf/*
 **/data
 **/data/*
+**/plugins
+**/plugins/*
 .DS_Store
